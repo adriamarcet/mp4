@@ -1,3 +1,4 @@
+#MP4
 # Quick grunt and bower project
 
 The idea is to have a base project easy to install everywhere with all grunt files and dependencies up and running.
